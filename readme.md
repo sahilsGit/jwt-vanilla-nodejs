@@ -1,4 +1,4 @@
-# What is it?
+# JWT implementation using Crypto - without hitting `npm install` 
 
 Implementing JWT equivalent from scratch. I know this might sound redundant, why does it even exist when you can pretty much get away with using `npm i jsonwebtoken`.
 
